@@ -1,5 +1,5 @@
 # DesigningACompiler
-Basic compiler that is able to respond to arithmetic, logical and relational expressions. 
+Basic compiler that is able to respond to arithmetic, logical and relational expressions. Coded using YACC and LEX.
 
 Projenin Kapsamı
 
